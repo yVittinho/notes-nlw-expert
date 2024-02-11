@@ -1,6 +1,6 @@
-##Tecnologias
+###Tecnologias
 
 -ReactJS
--TypeScript
+--TypeScript
 -Tailwind CSS
 -Vite
