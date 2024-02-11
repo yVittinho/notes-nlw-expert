@@ -1,4 +1,4 @@
-#Tecnologias
+##Tecnologias
 -ReactJS
 -TypeScript
 -Tailwind CSS
